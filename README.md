@@ -100,6 +100,7 @@ This app is built for mobile browsers, making it easy to launch your routine wit
 - [ ] Adjustable Routine with Back-end System
 - [ ] Steak Count and Gamification System
 - [ ] Add “Night Routine” mode
+- [ ] Refactor the code (Right now it's spaghetti)
 
 ---
 
